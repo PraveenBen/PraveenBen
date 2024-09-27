@@ -34,15 +34,15 @@ I'm a passionate Data Scientist with a strong background in machine learning, da
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenben&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praveenbentheme=onedark)](https://github.com/PraveenBen/PraveenBen)
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenben&layout=compact)
 
 ## 🧠 LeetCode Stats
 
