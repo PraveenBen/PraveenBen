@@ -11,11 +11,9 @@ I'm a passionate Data Scientist with a strong background in machine learning, da
 - Matplotlib
 - Scikit-learn
 - Tableau
-- PowerBI
 
 ### Web Development
 - JavaScript
-- TypeScript
 - React
 - HTML
 - CSS
@@ -38,7 +36,7 @@ I'm a passionate Data Scientist with a strong background in machine learning, da
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=praveenben&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praveenben&theme=onedark)](https://github.com/PraveenBen/PraveenBen)
 
 ## 📈 Most Used Languages
 
