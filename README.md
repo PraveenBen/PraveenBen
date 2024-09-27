@@ -38,7 +38,7 @@ I'm a passionate Data Scientist with a strong background in machine learning, da
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=praveenbentheme=onedark)](https://github.com/PraveenBen/PraveenBen)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praveenbentheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Most Used Languages
 
