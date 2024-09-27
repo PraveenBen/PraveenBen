@@ -1,4 +1,4 @@
-I'm a passionate Data Scientist with a strong background in machine learning, data analysis, and web development. My goal is to leverage data-driven insights to solve complex problems and create impactful solutions.
+I'm a passionate Data Scientist with a strong background in machine learning, data analysis, and web development. I aim to leverage data-driven insights to solve complex problems and create impactful solutions.
 
 ## 🚀 Skills
 
