@@ -1,27 +1,27 @@
-I'm a passionate Data Scientist with a strong background in machine learning, data analysis, and web development. I aim to leverage data-driven insights to solve complex problems and create impactful solutions.
+I'm a Data Engineer with a strong background in SQL, Big data technologies and with advertisement data. I can to leverage data-driven insights to solve complex problems and create impactful solutions.
 
 ## 🚀 Skills
 
-### Data Science & Machine Learning
-- Python
-- Machine Learning
-- Deep Learning (U-Net, Keras)
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Tableau
+### Big Data 
+- Real-time data using flink and spark
+- Spark optimization
+- Sql optimization 
+- ETL tools development 
+- data movement solutioning
+- peta bytes of data handling
+- modern DB like clickhouse and druid understanding 
+- Apache airflow
 
-### Web Development
-- JavaScript
-- React
-- HTML
-- CSS
+### Backend system designs
+- Trade data
+- Ads Data
+- CDC data
+- real-time data
 
 ### Databases
 - MySQL
 - PostgreSQL
-- MongoDB
+- SQL server
 
 ## 🔗 Connect with me
 
